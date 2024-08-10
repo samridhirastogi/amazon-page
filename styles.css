@@ -1,0 +1,39 @@
+body{
+    background-color: cornsilk;
+}
+.ran{
+   margin-left: 20px; 
+}
+.boxx {
+    background: white ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+    display: flex;
+    border: 2px solid;
+    margin: 50px auto;
+    width:850px;
+}
+
+.ratings{
+    width:100px;
+}
+
+.title {
+    font-weight: medium;
+    font-family: sans-serif;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width:250px;
+    padding:20px;
+    margin:20px;
+}
+
+.name{
+    color:teal;
+    text-decoration: underline;
+}
+.para{
+    margin-top: 0;
+    padding:0px;
+}
